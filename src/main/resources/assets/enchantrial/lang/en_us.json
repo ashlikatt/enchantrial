@@ -1,0 +1,22 @@
+{
+  "item.enchantrial.amethyst_upgrade": "Amethyst Enchanting Template",
+  "item.enchantrial.blaze_upgrade": "Blazing Enchanting Template",
+  "item.enchantrial.purpur_upgrade": "Purpur Enchanting Template",
+  "item.enchantrial.sculk_upgrade": "Sculk Enchanting Template",
+  "item.enchantrial.prismarine_upgrade": "Prismarine",
+  "item.enchantrial.tooltip.amethyst": "Amethyst",
+  "item.enchantrial.tooltip.blaze": "Blaze",
+  "item.enchantrial.tooltip.purpur": "Purpur",
+  "item.enchantrial.tooltip.sculk": "Sculk",
+  "item.enchantrial.tooltip.prismarine": "Prismarine",
+  "item.enchantrial.smithing_template.enchant_upgrade.upgrade": "Enchanting Upgrades:",
+  "item.enchantrial.smithing_template.enchant_upgrade.applies_to": "Enchantable Equipment",
+  "item.enchantrial.smithing_template.enchant_upgrade.ingredients": "Lapis Lazuli",
+  "item.enchantrial.smithing_template.enchant_upgrade.base_slot_description": "Add enchantable item",
+  "item.enchantrial.smithing_template.enchant_upgrade.additions_slot_description": "",
+  "upgrade.enchantrial.amethyst_upgrade": "Amethyst Enchanting Upgrade",
+  "upgrade.enchantrial.blaze_upgrade": "Blazing Enchanting Upgrade",
+  "upgrade.enchantrial.purpur_upgrade": "Purpur Enchanting Upgrade",
+  "upgrade.enchantrial.sculk_upgrade": "Sculk Enchanting Upgrade",
+  "upgrade.enchantrial.prismarine_upgrade": "Prismarine Enchanting Upgrade"
+}

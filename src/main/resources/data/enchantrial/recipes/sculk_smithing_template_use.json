@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_enchant_upgrade",
+  "base": {
+    "tag": "enchantrial:enchantable"
+  },
+  "template": {
+    "item": "enchantrial:sculk_upgrade"
+  },
+  "upgrade_name": "sculk"
+}

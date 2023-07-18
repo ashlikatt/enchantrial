@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AEA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_powder"
+    },
+    "E": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "enchantrial:blaze_upgrade",
+    "count": 1
+  }
+}
+

@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "enchantrial",
+	"version": "${version}",
+	"name": "Enchantrial",
+	"description": "An overhaul to vanilla enchanting.",
+	"authors": [
+		"Ashli Katt"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/enchantrial/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "dev.ashli.enchantrial.Enchantrial",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "dev.ashli.enchantrial.ExampleModClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+      "enchantrial.mixins.json",
+		{
+			"config": "enchantrial.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": ">=1.9.0"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

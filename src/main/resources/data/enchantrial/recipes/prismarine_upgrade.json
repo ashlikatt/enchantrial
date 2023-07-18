@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AEA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "E": {
+      "item": "minecraft:sea_lantern"
+    }
+  },
+  "result": {
+    "item": "enchantrial:prismarine_upgrade",
+    "count": 1
+  }
+}
+

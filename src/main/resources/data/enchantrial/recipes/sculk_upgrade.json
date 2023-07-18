@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AEA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:echo_shard"
+    },
+    "E": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "enchantrial:sculk_upgrade",
+    "count": 1
+  }
+}
+
